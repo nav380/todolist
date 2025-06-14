@@ -30,6 +30,7 @@ function Todolist() {
         onChange={handleChange} 
         placeholder="Add a new todo" 
       />
+</br>
       <button onClick={handleAddTodo}>Add</button>
       <ul>
         {todos.map((todo, index) => (

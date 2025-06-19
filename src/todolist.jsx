@@ -4,7 +4,7 @@ import './App.css';
 function Todolist() {
   const [todos, setTodos] = useState([]);
   const [newTodo, setNewTodo] = useState('');
- const [ error, set error]=usestate('');
+
 
   const handleAddTodo = () => {
     if (newTodo.trim()) {

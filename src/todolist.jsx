@@ -6,8 +6,6 @@ function Todolist() {
   const [newTodo, setNewTodo] = useState('');
   const [newError, setError] = useState('');
   
-  const [newError, setError] = useState('');
-  
   
 
 

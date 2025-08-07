@@ -9,7 +9,6 @@ function Todolist() {
 const [newLoading, setLoading] = useState('');
 
   const [newLoading, setLoading] = useState('');
-const [newLoading, setLoading] = useState('');
 
 
 

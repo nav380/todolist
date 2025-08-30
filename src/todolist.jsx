@@ -9,6 +9,9 @@ function Todolist() {
 const [newLoading, setLoading] = useState('');
 
 const [newLoading, setLoading] = useState('');
+const [newLoading, setLoading] = useState('');
+
+
   const handleAddTodo = () => {
     if (newTodo.trim()) {
       setTodos([...todos, newTodo]);

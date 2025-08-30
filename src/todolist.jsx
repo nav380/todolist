@@ -12,6 +12,7 @@ const [newLoading, setLoading] = useState('');
 const [newLoading, setLoading] = useState('');
 const [newLoading, setLoading] = useState('');
 const [newLoading, setLoading] = useState('');
+const [newLoading, setLoading] = useState('');
 
 
   const handleAddTodo = () => {
